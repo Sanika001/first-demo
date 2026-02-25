@@ -1,4 +1,4 @@
 # first-demo
 This is my First Git Repository
 <br>
-Author - Sanika
+Author - Sanika Marshettiwar
